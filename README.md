@@ -6,7 +6,7 @@
 > npm install
 ```
 
-### Run the test
+### Run the tests
 ```sh
 npm run test
 ```
